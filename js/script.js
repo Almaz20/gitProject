@@ -1,3 +1,2 @@
-const b=50;
-
+const b=0;
 const c=()=>{};
